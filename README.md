@@ -1,4 +1,5 @@
-# redux-basic-counter
+### redux-basic-counter-1app
+link: https://redux-basic-counter-app.netlify.app/
 
 # First give the command
     npm install
